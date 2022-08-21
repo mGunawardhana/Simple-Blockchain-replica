@@ -17,8 +17,7 @@
 ![3d08e03cb40252526fee2036a67f07f1](https://user-images.githubusercontent.com/100486080/185805010-b2b31d8a-9fb6-4ad3-befd-48bab8ccbed6.gif)
 
 <br>
-<br>
 
-### If you have any kind of bugs or issues pleace contact me on - mrgunawardhana27368@gmail.com or Github Discussion. 😇
+### If you have any kind of bugs or issues pleace contact me on - mrgunawardhana27368@gmail.com or Github Discussion. 😇 👨🏻‍💻
 
 
