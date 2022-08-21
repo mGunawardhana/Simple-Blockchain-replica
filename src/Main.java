@@ -12,6 +12,11 @@ public class Main {
 
         List<Block> blockChainList = new ArrayList<>();
 
+        Block genesis = new Block("Heap Zip BlockChain",0);
+
+        blockChainList.add(genesis);
+
+
 
 
     }
