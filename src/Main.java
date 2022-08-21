@@ -12,9 +12,14 @@ public class Main {
 
         List<Block> blockChainList = new ArrayList<>();
 
+        /* ---- Introducing genesis Block ---- */
         Block genesis = new Block("Heap Zip BlockChain",0);
-
         blockChainList.add(genesis);
+
+        /* ---- Introducing first block ---- */
+        Block blockX = new Block("Hello",blockChainList.get(blockChainList.size()-1).hashCode());
+        blockChainList.add(blockX);
+
 
 
 
