@@ -13,12 +13,22 @@ public class Main {
         List<Block> blockChainList = new ArrayList<>();
 
         /* ---- Introducing genesis Block ---- */
-        Block genesis = new Block("Heap Zip BlockChain",0);
+        Block genesis = new Block("mGunawardhana's BlockChain",0);
         blockChainList.add(genesis);
 
         /* ---- Introducing first block ---- */
-        Block blockX = new Block("Hello",blockChainList.get(blockChainList.size()-1).hashCode());
-        blockChainList.add(blockX);
+        //TODO: check out this line if you have an any error
+        Block blockA = new Block("Block One here",blockChainList.get(0).hashCode());
+        blockChainList.add(blockA);
+
+        Block blockB = new Block("Block two here",blockChainList.get(blockChainList.size()-1).hashCode());
+        blockChainList.add(blockB);
+
+        Block blockC = new Block("Block three here",blockChainList.get(blockChainList.size()-1).hashCode());
+        blockChainList.add(blockC);
+
+        Block blockD = new Block("Block four here",blockChainList.get(blockChainList.size()-1).hashCode());
+        blockChainList.add(blockD);
 
 
 
