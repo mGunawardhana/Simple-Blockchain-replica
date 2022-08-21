@@ -9,4 +9,7 @@ public class Block {
     private String data;
     private int Hash;
 
+    public Block(String data,int previousHash){
+
+    }
 }
