@@ -5,4 +5,8 @@
  */
 
 public class Block {
+    private int previousHash;
+    private String data;
+    private int Hash;
+
 }
